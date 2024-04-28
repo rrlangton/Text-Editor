@@ -1,7 +1,7 @@
 {
-    "name": "contact",
+    "name": "text-editor",
     "version": "1.0.0",
-    "description": "",
+    "description": "just a text editor",
     "main": "server.js",
     "scripts": {
         "server": "node server.js"

@@ -59,7 +59,6 @@ export const getDb = async () => {
   return result;
 };
 
-
 // Export a function we will use to DELETE to the database.
 export const deleteDb = async (id) => {
   console.log('DELETE from the database', id);

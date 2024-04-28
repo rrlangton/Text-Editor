@@ -1,7 +1,7 @@
 {
-    "name": "mini-project-main",
+    "name": "text-editor",
     "version": "1.0.0",
-    "description": "",
+    "description": "just a text editor",
     "main": "server.js",
     "scripts": {
       "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
